@@ -1,4 +1,4 @@
 # FlowBoard
 
 ## Adrs
-São reponsáveis por documentar as decisões tomandas durante e implementação do projeto.
+São responsáveis por documentar as decisões tomadas durante a implementação do projeto.
